@@ -119,8 +119,3 @@ Antivirus scan result : (btw, scan it on non-distrubuted online antivirus scanne
 ![a17](https://user-images.githubusercontent.com/68844502/232313411-cf03dc49-6a6f-4915-b788-d53bc7d135e5.PNG)
 
 ![a18](https://user-images.githubusercontent.com/68844502/232313414-692772de-9983-480e-bc3a-eeb6041e9907.PNG)
-
-
-### You can contact me here or in instagram : 
-
-+ https://www.instagram.com/arduinocum.py/
