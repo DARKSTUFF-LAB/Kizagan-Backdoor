@@ -1,7 +1,7 @@
 import socket
 import subprocess
 import colorama
-from colorama import Fore,Back
+from colorama import Fore,Bac
 import os
 import simplejson
 import base64
