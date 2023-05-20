@@ -14,7 +14,7 @@ import cv2
 from util import sound_record
 import tkinter
 
-ip = "192.168.1.105" #Change this value according to yourself
+ip = "192.168.1.105" #Change this value according to yourself.
 port = 4444 #Change this value according to yourself.
 
 my_thread = threading.Thread(target=kg.kg_Start)
