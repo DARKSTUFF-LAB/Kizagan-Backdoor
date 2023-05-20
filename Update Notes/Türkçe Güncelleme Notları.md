@@ -1,6 +1,6 @@
 # Yeni güncelleme versiyon (v1.2)
 
---Dil seçenekleri geldi.
+--Dil seçenekleri geldi
 
 --Daha iyi yardim menüsü.
 
