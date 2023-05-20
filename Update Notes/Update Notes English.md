@@ -1,6 +1,6 @@
 # New update version (v1.2)
 
---Language options came.
+--Language options came
 
 --Better help menu.
 
